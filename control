@@ -1,0 +1,9 @@
+Package: com.ahmad.longstories
+Name: LongStories
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove Instagram Stories 24 hours limit while selecting media from gallery
+Maintainer: Ahmad
+Author: Ahmad
+Section: Tweaks
